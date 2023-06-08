@@ -16,7 +16,7 @@ function App() {
       <Experience />
       <Contact />
 
-      <SocialLinks />
+      <SocialLinks/>
     </div>
   );
 }
